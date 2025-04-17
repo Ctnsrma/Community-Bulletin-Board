@@ -43,6 +43,6 @@ Better UI/UX enhancements
 This project was developed as part of a Full Stack Web Development subject. It showcases CRUD operations, client-server communication, and full integration of front and back-end technologies.
 
 📧 Contact
-Made with ❤️ by [Your Name]
-📫 Email: your.email@example.com
-🔗 GitHub: @your-username
+Made with Hunny Mehra by Chetan Sharma
+📫 Email: chetansharma98004@gmail.com
+🔗 GitHub: ctnsrma
