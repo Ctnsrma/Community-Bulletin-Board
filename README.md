@@ -45,4 +45,4 @@ This project was developed as part of a Full Stack Web Development subject. It s
 📧 Contact
 Made with Hunny Mehra by Chetan Sharma
 📫 Email: chetansharma98004@gmail.com
-🔗 GitHub: ctnsrma
+🔗 GitHub: https://github.com/Ctnsrma
